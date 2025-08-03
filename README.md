@@ -5,13 +5,8 @@ It supports embedded images, audio, and video, along with Leaflet TileLayer and 
 
 🔗 Explore the live project here: [https://sepharad.miami.edu](https://sepharad.miami.edu/) 
 
-
-## Live links (replace with your own)
-- Leaflet Map https://scohen64.github.io/danino_migration_path/#1
-- Google Sheets template https://docs.google.com/spreadsheets/d/19OpksAb7ttMBtbDGYH-Vva01lUYO_7vyMv3QLcPHFM8/edit?gid=0#gid=0
-
 ## Create Your Own Migration Path and Send Us the Link to Upload Into the World Sephardic Database
-- See step-by-step tutorial in *Hands-On Data Visualization* https://HandsOnDataViz.org/leaflet-storymaps-with-google-sheets.html
+- See step-by-step tutorial in https://sepharad.miami.edu/instructions-for-creating-a-geolocalization-interactive-map/
 - When done, send us the link to shaicohen@miami.edu. 
 
 #### Geocode your address data with Google Sheets add-on
